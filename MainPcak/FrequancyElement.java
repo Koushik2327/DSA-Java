@@ -3,7 +3,7 @@ package MainPcak;
 public class FrequancyElement {
 
 	public static void main(String[] args) {
-c		int[] a = {1,2,2,3,1,1};
+		int[] a = {1,2,2,3,1,1};
 		boolean visited[] = new boolean[a.length];
 		for(int i =0 ;i<a.length;i++) {
 			if(visited[i]) {
