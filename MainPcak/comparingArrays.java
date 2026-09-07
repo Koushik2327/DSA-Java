@@ -10,8 +10,8 @@ public class comparingArrays {
 		int[] b = {2,3,4};
 		
 		if(Arrays.equals(a, b)) {
-			System.out.println("Arrays equal");
-		}else System.out.println("Not Equal");
+			System.out.println("Arrays are equal");
+		}else System.out.println("Arrays are Not Equal");
 
 	}
 

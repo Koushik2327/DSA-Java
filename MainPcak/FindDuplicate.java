@@ -16,9 +16,9 @@ public class FindDuplicate {
 				}
 			}
 			
-			if(find) {
-				break;
-			}
+//			if(find) {
+//				break;
+//			}
 		}
 		if(!find) {
 			System.out.println("no ele");
