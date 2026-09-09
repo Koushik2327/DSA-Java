@@ -18,7 +18,7 @@ public class Insertpos {
 				r=m-1;
 			}
 		}
-		System.out.println("dhd: "l);
+		System.out.println("dhd: "+l);
 
 	}
 
