@@ -43,6 +43,12 @@ public class DoublyLL {
 		
 		System.out.println("print from starting: ");
 		dt.printFromBeg(l3);
+		
+		System.out.println();
+		
+		
+		
+		
 
 	}
 
